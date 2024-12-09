@@ -18,6 +18,12 @@ Hi there! I'm Wellington Ribeiro, an experienced software engineer from Brazil w
 ## 🤝 Collaboration
 - I’m looking to collaborate on any open-source projects. Feel free to reach out!
 
+## 🚧 Personal projects
+- Shared Bills: Android app to manage group bills with real-time synchronization and offline functionality.
+  https://play.google.com/store/apps/details?id=br.com.jwar.sharedbill
+- Learn Trail: An open-source Android app that creates customizable learning paths for any subject.
+  https://github.com/wellingtonrib/LearnTrail
+
 ## 💬 Ask Me About
 - Mobile Development
 
