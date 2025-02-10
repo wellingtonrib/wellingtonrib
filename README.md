@@ -7,7 +7,7 @@ Hi there! I'm Wellington Ribeiro, an experienced software engineer from Brazil w
 - **Specialization:** Mobile Development from <a href="https://estacio.br/">Estácio de Sá University São Paulo - Brazil</a>
 
 ## 💼 Professional Experience
-- **Current Role:** Senior Android Developer at iFood
+- **Current Role:** Senior Android Developer
 - **Open Source:** Actively contributing to various open-source projects
 
 ## 🌱 Currently Learning
